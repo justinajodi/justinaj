@@ -52,7 +52,7 @@ export default function Contact() {
       >
         <input
           className="h-14 p-4 rounded-lg borderBlack dark:bg-white   transition-all dark:outline-none"
-          name="senderEmail"
+          name="  "
           type="email"
           required
           maxLength={500}
